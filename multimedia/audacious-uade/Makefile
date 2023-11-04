@@ -18,10 +18,4 @@ USES=	compiler:c++11-lib gmake pkgconfig tar:bz2
 CC?=	clang
 CXX?=	clang++
 
-.if defined(WITH_DEBUG)
-INSTALL_TARGET=install
-.else
-INSTALL_TARGET=install-strip
-.endif
-
 .include <bsd.port.mk>
