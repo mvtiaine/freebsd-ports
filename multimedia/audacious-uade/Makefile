@@ -1,9 +1,8 @@
 PORTNAME=	audacious-uade
-PORTVERSION=	0.9.2
+PORTVERSION=	0.9.3
 CATEGORIES=	multimedia audio
 
-GH_ACCOUNT=	mvtiaine
-MASTER_SITES=	GHC/releases/download/${DISTVERSION}/
+MASTER_SITES=	https://github.com/mvtiaine/audacious-uade/releases/download/${DISTVERSION}/
 
 COMMENT=	UADE plugin for Audacious music player
 WWW=		https://github.com/mvtiaine/audacious-uade
