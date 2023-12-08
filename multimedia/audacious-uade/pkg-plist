@@ -201,11 +201,8 @@ lib/audacious/Input/uade.so
 %%DATADIR%%/share/uade/song.conf
 %%DATADIR%%/share/uade/uade.conf
 %%DATADIR%%/share/uade/uaerc
-%%DATADIR%%/songdb/aminet.tsv
 %%DATADIR%%/songdb/amp.tsv
+%%DATADIR%%/songdb/demozoo.tsv
 %%DATADIR%%/songdb/modland.tsv
-%%DATADIR%%/songdb/modland_incoming.tsv
-%%DATADIR%%/songdb/modsanthology.tsv
+%%DATADIR%%/songdb/songlengths.tsv
 %%DATADIR%%/songdb/unexotica.tsv
-%%DATADIR%%/songdb/wantedteam.tsv
-%%DATADIR%%/songdb/zakalwe.tsv

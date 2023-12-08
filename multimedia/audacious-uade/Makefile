@@ -1,5 +1,5 @@
 PORTNAME=	audacious-uade
-PORTVERSION=	0.10.2
+PORTVERSION=	0.11.0
 CATEGORIES=	multimedia audio
 
 MASTER_SITES=	https://github.com/mvtiaine/audacious-uade/releases/download/${DISTVERSION}/
