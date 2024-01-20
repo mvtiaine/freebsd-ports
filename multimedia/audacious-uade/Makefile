@@ -14,5 +14,6 @@ RUN_DEPENDS=	audacious:multimedia/audacious
 
 GNU_CONFIGURE=	yes
 USES=	compiler:c++11-lib gmake pkgconfig tar:bz2
+TEST_TARGET=	check
 
 .include <bsd.port.mk>
