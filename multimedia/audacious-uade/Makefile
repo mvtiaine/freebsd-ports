@@ -13,6 +13,7 @@ LICENSE_FILE=	${WRKSRC}/COPYING
 RUN_DEPENDS=	audacious:multimedia/audacious
 
 GNU_CONFIGURE=	yes
+CONFIGURE_ARGS=	--enable-plugin-audacious=yes --with-static-stdlibs=no
 USES=	compiler:c++11-lib gmake pkgconfig tar:bz2
 TEST_TARGET=	check
 
