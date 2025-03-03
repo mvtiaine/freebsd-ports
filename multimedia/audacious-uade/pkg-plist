@@ -201,10 +201,7 @@ lib/audacious/Input/uade.so
 %%DATADIR%%/share/uade/song.conf
 %%DATADIR%%/share/uade/uade.conf
 %%DATADIR%%/share/uade/uaerc
-%%DATADIR%%/songdb/amp.tsv
-%%DATADIR%%/songdb/demozoo.tsv
+%%DATADIR%%/songdb/combined.tsv
 %%DATADIR%%/songdb/md5idx.tsv
 %%DATADIR%%/songdb/modinfos.tsv
-%%DATADIR%%/songdb/modland.tsv
 %%DATADIR%%/songdb/songlengths.tsv
-%%DATADIR%%/songdb/unexotica.tsv
