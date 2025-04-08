@@ -161,7 +161,6 @@ lib/audacious/Input/uade.so
 %%DATADIR%%/share/uade/players/Sierra-AGI
 %%DATADIR%%/share/uade/players/Silmarils
 %%DATADIR%%/share/uade/players/SonicArranger
-%%DATADIR%%/share/uade/players/SonicArranger-pc-all
 %%DATADIR%%/share/uade/players/SonixMusicDriver
 %%DATADIR%%/share/uade/players/Sound-FX
 %%DATADIR%%/share/uade/players/SoundControl
