@@ -94,7 +94,8 @@ lib/audacious/Input/uade.so
 %%DATADIR%%/share/uade/players/JesperOlsen_EP
 %%DATADIR%%/share/uade/players/JochenHippel
 %%DATADIR%%/share/uade/players/JochenHippel-7V
-%%DATADIR%%/share/uade/players/JochenHippel-CoSo
+%%DATADIR%%/share/uade/players/JochenHippel-CoSo_UADE
+%%DATADIR%%/share/uade/players/JochenHippelCOSO
 %%DATADIR%%/share/uade/players/JochenHippel_UADE
 %%DATADIR%%/share/uade/players/Jochen_Hippel_ST
 %%DATADIR%%/share/uade/players/Kim_Christensen
@@ -125,6 +126,7 @@ lib/audacious/Input/uade.so
 %%DATADIR%%/share/uade/players/MusiclineEditor
 %%DATADIR%%/share/uade/players/NTSP-system
 %%DATADIR%%/share/uade/players/Nick_Pelling_Packer
+%%DATADIR%%/share/uade/players/NoiseTracker
 %%DATADIR%%/share/uade/players/NovoTradePacker
 %%DATADIR%%/share/uade/players/Octa-MED
 %%DATADIR%%/share/uade/players/Octa-MED-Ss
