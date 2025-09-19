@@ -211,6 +211,6 @@ lib/audacious/Input/uade.so
 %%DATADIR%%/share/uade/uade.conf
 %%DATADIR%%/share/uade/uaerc
 %%DATADIR%%/songdb/combined.tsv
-%%DATADIR%%/songdb/md5idx.tsv
 %%DATADIR%%/songdb/modinfos.tsv
 %%DATADIR%%/songdb/songlengths.tsv
+%%DATADIR%%/songdb/xxh32idx.tsv
